@@ -1,1 +1,1 @@
-# BlazorWebApp
+# BlazorApppieShop
