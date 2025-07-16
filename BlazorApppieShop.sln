@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorAppPieShopOne", "Blaz
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorAppPieShop.Shared", "BlazorAppPieShop.Shared\BlazorAppPieShop.Shared.csproj", "{E0DD364C-BBBD-494D-A934-551DA24F5655}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorAppPieShop.Api", "BlazorAppPieShop.Api\BlazorAppPieShop.Api.csproj", "{820A6DE1-D1DB-4E7A-84D3-BB3787295018}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{E0DD364C-BBBD-494D-A934-551DA24F5655}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E0DD364C-BBBD-494D-A934-551DA24F5655}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E0DD364C-BBBD-494D-A934-551DA24F5655}.Release|Any CPU.Build.0 = Release|Any CPU
+		{820A6DE1-D1DB-4E7A-84D3-BB3787295018}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{820A6DE1-D1DB-4E7A-84D3-BB3787295018}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{820A6DE1-D1DB-4E7A-84D3-BB3787295018}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{820A6DE1-D1DB-4E7A-84D3-BB3787295018}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
